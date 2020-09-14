@@ -462,7 +462,34 @@ background-image: url("images/0.jpg"); /* The image used */
     font-size: 50%;
     text-align: center;
   }
+    
+    
+  #about {
+  width:100%;
   
+}
+/*about section*/
+.about-section {
+  width: 100%;
+  
+ 
+ 
+}
+
+.about-section  .about-desc{
+  width: 100%;
+ 
+}
+
+
+
+
+
+.about-section .about-pic {
+  width: 100%;
+  
+}
+
   
 }
 

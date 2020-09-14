@@ -399,7 +399,71 @@ background-image: url("images/0.jpg"); /* The image used */
 
 
 @media(max-width: 700px) {
- 
+  body {
+    width:100%;
+   
+}
+
+.main-container {
+    max-width: 100%;
+}
+
+.header {
+  width: 100%;
+}
+
+.header .logo {
+  width: 100%;
+}
+
+.logo h1 {
+  text-align: center;
+}
+
+.header .navigation {
+  width: 100%;
+  
+}
+
+.container {
+  width:100%;
+}
+  /*hooooommmmmeeee section*/
+
+  #home {
+    width: 100%;
+  }
+
+  #home .intro{
+    width: 100%;
+    text-align: center;
+  }
+
+  #home .intro-text {
+    
+    font-size: 15px;
+    padding: 10px;
+   
+   
+  }
+
+  #home .glow {
+    width: 100%;
+    
+  }
+  
+  #home .glow a {
+  
+   font-size: x-small;
+   
+  }
+
+  .bootcamp {
+    width: 100%;
+    padding: 10px;
+    font-size: 50%;
+    text-align: center;
+  }
   
   
 }

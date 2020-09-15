@@ -471,17 +471,31 @@ background-image: url("images/0.jpg"); /* The image used */
   
 }
 
+
 .about-section {
   width: 100%;
-  flex-direction: column-reverse;
+  flex-direction: column;
  
  
 }
 
 .about-section  .about-desc{
   width: 100%;
+  padding: 10px;
+}
+
+.about-section  .about-desc h1{
+  font-size: 30px;
+  
+  margin-bottom: 10px;
+ 
+}
+
+.about-section  .about-desc p{
+  font-size: 14px;
   
 }
+
 
 
 

@@ -478,7 +478,7 @@ div.gallery {
 
 div.gallery img {
   width: 100%;
-  height: 1uto;
+  height: auto;
 }
 
 
@@ -548,7 +548,7 @@ div.gallery img {
 
 /*.....contact page*/
 
-#contact {
+.contact {
   width: 100%;
   
   

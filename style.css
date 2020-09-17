@@ -120,30 +120,6 @@ li a:hover:not(.active) {
   margin-bottom: 10px;
 }
 
-#home .glow {
-  width: 100%;
-  padding: 10px;
-  text-align: center;
-  -webkit-animation: glow 1s ease-in-out infinite alternate;
-  -moz-animation: glow 1s ease-in-out infinite alternate;
-  animation: glow 1s ease-in-out infinite alternate;
-}
-
-#home .glow a {
- text-decoration: none;
- font-size: larger;
- color: white;
- text-transform: uppercase;
-}
-
-@-webkit-keyframes glow {
-  from {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
-  }
-  to {
-    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
-  }
-}
 
 .bootcamp {
   width: 100%;
@@ -265,6 +241,7 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: center;
+  background-color:  seagreen;
 }
 
 
@@ -446,18 +423,9 @@ background-image: url("images/0.jpg"); /* The image used */
 
   
 #home .intro-text {
-  display: none;
+
 }
-  #home .glow {
-    width: 100%;
-    
-  }
-  
-  #home .glow a {
-  
-   font-size: x-small;
-   
-  }
+ 
 
   .bootcamp {
     width: 100%;

@@ -423,7 +423,8 @@ background-image: url("images/0.jpg"); /* The image used */
 
   
 #home .intro-text {
-
+font-size: 15px;
+    padding: 10px;
 }
  
 

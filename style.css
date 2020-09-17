@@ -524,7 +524,9 @@ div.gallery img {
 
 }
 
-
+.real-stories .story-desc {
+padding: 10px;
+}
 
 
 
@@ -550,7 +552,7 @@ div.gallery img {
 
 .contact {
   width: 100%;
-  
+  font-size: 16px;
   
 
 }

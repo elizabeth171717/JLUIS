@@ -444,14 +444,10 @@ background-image: url("images/0.jpg"); /* The image used */
     text-align: center;
   }
 
-  #home .intro-text {
-    
-    font-size: 15px;
-    padding: 10px;
-   
-   
-  }
-
+  
+#home .intro-text {
+  display: none;
+}
   #home .glow {
     width: 100%;
     

@@ -152,6 +152,14 @@ li a:hover:not(.active) {
   background-color: seagreen;
 }
 
+.video {
+  width:100%;
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+}
 
 /*................... about section.........*/
 #about {
